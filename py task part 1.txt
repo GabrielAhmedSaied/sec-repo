@@ -1,0 +1,51 @@
+Python Tasks
+1 Create a Boolean variable named x
+2 Create an integer variable named y
+3 Create a float variable named z
+4 Create a string variable names s
+5 Convert the int variable to float
+●6 Can we convert the str to int ?
+●7 Create a list of numbers from 1 to 5
+●8 Create a tuple from 10 to 15
+●9 Convert the list to tuple
+●10 Create a dict of 3 values
+●11 Can we use semi colon ; with python
+●12 Python is interpreted or compiled ?
+●13 What is the differences between low level & high level
+●14 What is the differences between = , ==
+●15 What do we mean by using !=
+●16 What is the operator precedence
+●17 Create a variable x with value of 10
+●18 Increase x value by 15 using assignment operators
+●19 Divide the x value by 5 using assignment operators
+●20 Multiply the x value by 10 using assignment operator
+●21 Get module of x on 3 using assignment operators
+●22 Using python print the module of 11 to 4
+●23 Print the exponent of 2,3
+●24 Divide 11 by 3 using python division
+●25 Can we divide 11 by 3 and get an integer number ?
+●26  Check if 10 is bigger than 15 or not
+●27  If 10 is not bigger than15 print x is smaller than 15
+●28 In which cases we will use all
+●29 What is the differences between all , and
+●30 What is the differences between any , or
+●31 If we need all the conditions to be true we will use ….
+●32 What is the differences between if , elif
+●33 What is the differences between elif else
+●34 Can we use more than one elif
+●35 Can we use more than one else
+●36 write s simple ternary operator
+●37 in elif , python will check all the conditions no matter what ?
+●38 in elif we use else for ... ?
+●39 if we have this list [2,4,6,8,10] :
+○ check to see if 4 in this list or not
+○ check to see if 4 and 6 in this list on not
+○ check to see if 3 or 6 in this list
+○ check to see if 2 , 4 and 5 in this list
+create new folder
+git init
+solve tasks : solve.py
+git add
+git commit -m "solve task
+git push
+send link
